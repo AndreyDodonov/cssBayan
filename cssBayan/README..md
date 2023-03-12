@@ -1,1 +1,1 @@
-cssBayan task for rsschool
+cssBayan task for rsschool.
